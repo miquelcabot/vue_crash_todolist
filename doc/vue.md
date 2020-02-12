@@ -4,6 +4,8 @@
 
 [https://cli.vuejs.org/guide/](https://cli.vuejs.org/guide/)
 
+Component Vetur for VS Code: [https://marketplace.visualstudio.com/items?itemName=octref.vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
 
 ```
 $ npm install -g @vue/cli
